@@ -12,3 +12,16 @@ http://relistan.com/dynamic-nginx-router-in-go/
 
 https://medium.com/@siddontang/build-up-a-high-availability-distributed-key-value-store-b4e02bc46e9e
 
+### Các tác giả truyện:
+- [Vong ngữ](https://truyenfull.net/tac-gia/vong-ngu/)
+- [Thiên Tằm Thổ Đậu](https://truyenfull.net/tac-gia/thien-tam-tho-dau/)
+- [Ngã Bản Thuần Khiết](https://truyenfull.net/tac-gia/nga-ban-thuan-khiet/)
+- [Thạch Trư, Trạch Trư](https://truyenfull.net/tac-gia/thach-tru/)
+- [Nhâm Ngã Tiếu](https://truyenfull.net/tac-gia/nham-nga-tieu/)
+- [Ám Ma Sư](https://truyenfull.net/tac-gia/am-ma-su/)
+- [Ô Sơn](https://truyenfull.net/huyen-thien/)
+- [Miêu Nị](https://truyenfull.net/tac-gia/mieu-ni/)
+- [Thần Đông](https://truyenfull.net/tac-gia/than-dong/)
+- [Kiếm Du Thái Hư](https://truyenfull.net/tac-gia/kiem-du-thai-hu/)
+- [Nhĩ Căn](https://truyenfull.net/tac-gia/nhi-can/)
+- [Vũ Phong](https://truyenfull.net/tac-gia/vu-phong/)
