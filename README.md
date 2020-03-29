@@ -32,7 +32,9 @@ https://medium.com/@siddontang/build-up-a-high-availability-distributed-key-valu
 - [Phong Lăng Thiên Hạ](https://truyenfull.net/tac-gia/phong-lang-thien-ha/) 
 - [Quan Kỳ](https://truyenfull.net/tac-gia/quan-ky/)
 - [Cổ Chân nhân](https://truyenfull.net/tac-gia/co-chan-nhan/)
-
+- [Hoành Tảo Thiên Nhai](https://truyenfull.vn/tac-gia/hoanh-tao-thien-nhai/)
+- [Nhâm Ngã Tiếu](https://truyenfull.vn/tac-gia/nham-nga-tieu/)
+- 
 - https://truyenfull.net/dai-ma-dau/
 - https://truyenfull.net/yeu-cung/
 - https://truyenfull.net/phuong-truong/
