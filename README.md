@@ -41,4 +41,5 @@ https://medium.com/@siddontang/build-up-a-high-availability-distributed-key-valu
 - https://truyenfull.net/thien-ton-trung-sinh/
 - https://truyenfull.net/de-ba/
 - https://truyenfull.vn/y-thu-che-thien/
+- https://truyenfull.vn/co-dao-kinh-phong/
 
