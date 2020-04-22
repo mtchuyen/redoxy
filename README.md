@@ -45,4 +45,5 @@ https://medium.com/@siddontang/build-up-a-high-availability-distributed-key-valu
 - https://truyenfull.vn/hau-cung-muu-sinh-ke/
 - https://truyenfull.vn/vo-oi-chao-em/
 - https://truyenfull.vn/hon-nhan-khong-tinh-yeu/
+- https://truyenfull.vn/choc-tuc-vo-yeu-mua-mot-tang-mot-280220/
 
