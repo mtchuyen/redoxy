@@ -19,7 +19,7 @@ https://medium.com/@siddontang/build-up-a-high-availability-distributed-key-valu
 - [Thạch Trư, Trạch Trư](https://truyenfull.net/tac-gia/thach-tru/)
 - [Nhâm Ngã Tiếu](https://truyenfull.net/tac-gia/nham-nga-tieu/)
 - [Ám Ma Sư](https://truyenfull.net/tac-gia/am-ma-su/)
-- [Ô Sơn](https://truyenfull.net/huyen-thien/)
+- [Ô Sơn](https://truyenfull.net/huyen-thien/) - Hoàn.
 - [Miêu Nị](https://truyenfull.net/tac-gia/mieu-ni/)
 - [Thần Đông](https://truyenfull.net/tac-gia/than-dong/)
 - [Kiếm Du Thái Hư](https://truyenfull.net/tac-gia/kiem-du-thai-hu/)
