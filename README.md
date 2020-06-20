@@ -34,6 +34,7 @@ https://medium.com/@siddontang/build-up-a-high-availability-distributed-key-valu
 - [Cổ Chân nhân](https://truyenfull.net/tac-gia/co-chan-nhan/)
 - [Hoành Tảo Thiên Nhai](https://truyenfull.vn/tac-gia/hoanh-tao-thien-nhai/)
 - [Sa Mạc](https://truyenfull.vn/tac-gia/sa-mac/)
+- [Diệp Lạc Vô Tâm](https://truyenfull.vn/tac-gia/diep-lac-vo-tam/)
 - 
 - https://truyenfull.net/dai-ma-dau/
 - https://truyenfull.net/yeu-cung/
